@@ -3,7 +3,7 @@
       <button class="relative z-30 md:mt-5 p-5 text-3xl md:text-8xl text-white" >
         <router-link to="first">
           Willkommen im Amt
-          <img class="image" src="../../public/images/aa2.png" alt="Logo Amt" width="300" height="400">
+          <img class="image" src="/images/aa2.png" alt="Logo Amt" width="300" height="400">
         </router-link>
         
       </button>
