@@ -8,7 +8,7 @@
         
       </button>
       <video autoplay muted loop class="absolute z-10 ml-96 md:ml-0 w-auto min-w-full min-h-full max-w-none">
-        <source src="..\..\video\v1.mp4" type="video/mp4" />
+        <source src="/video/v1.mp4" type="video/mp4" />
         Your browser does not support HTML5 video.
       </video>
       
